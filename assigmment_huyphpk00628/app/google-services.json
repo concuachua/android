@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "12740318680",
+    "firebase_url": "https://huyphpk00628quanlychitieu.firebaseio.com",
+    "project_id": "huyphpk00628quanlychitieu",
+    "storage_bucket": "huyphpk00628quanlychitieu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12740318680:android:f6dd6860289dd1ef",
+        "android_client_info": {
+          "package_name": "com.example.suphuy.assigmment_huyphpk00628"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12740318680-rk2rjeo4trlmnnceh1a9f3omnvtqnfq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHMjLZPV9kln43M47fNvexmcP2JAPU_6Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
